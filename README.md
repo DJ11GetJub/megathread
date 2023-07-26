@@ -30,7 +30,9 @@ Direct downloads are normal downloads from a server, being safer and not requiri
 - [Game-2U](https://game-2u.com/Category/game/pc)
 - [Seven Gamers](https://www.seven-gamers.com)
   - Google Drive and torrent
-  - 1+ day on [their Discord server](https://discord.com/invite/ND6TBDwyjU) unlocks Google Drive links.
+  - 1+ day on [their Discord server](https://discord.com/invite/ND6TBDwyjU) unlocks Google
+  -https://steamunlocked.net
+  -   Drive links.
 - [GameDrive](https://gamedrive.org)
 - [Torrminatorr](https://forum.torrminatorr.com)
   - GOG, Linux games and scene releases
@@ -374,7 +376,8 @@ You can just use the [FMHY Unsafe Sites/Software](https://gist.githubusercontent
 - GameFabrique
   - Games stolen from IGG Games and [adware installers](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/10bh0h9/unsafe_sites_software_thread/jhi7u0h).
 - Games Releaser
-- GOG Unlocked/RomsUnlocked/SteamUnlocked
+- GOG Unlocked
+- 
   - Games stolen from IGG Games and nosTEAM, malicious redirect ads, and slow downloads.
 - IGG Games/PCGamesTorrents
   - Doxed mercs213 (GOG Games owner), exploits you for ad revenue, and puts its own DRM in indie games.
